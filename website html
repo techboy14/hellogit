@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+
+<html>
+
+<Head>
+     <title>The Future of transportation </title>
+ <link href="jacobwebsite.css" type="text/css" rel="stylesheet">
+</Head>
+   <div id="head">
+   <body>
+   <h1>The Future of transportation</h1>
+   <h2> Self driving cars</h2>
+   <p> Here is a few self driving car companies that are going or alredy making self driving cars.</p>
+   <ul>
+    <li>Tesla</li>
+     <li>Waymo</li>
+       <li>Uber</li>
+	    <li>Honda</li>
+		 <li>Mercedes-Benz</li>
+		  <li>BMW</li>
+		   <li>Audi</li>
+		    <li>Delphi</li>
+			 <li>Apple</li>
+			  <li>GM</li>
+			   <li>Lyft</li>
+			    <li>Farday Future</li>
+				  <li>Audi</li>
+				    <li>Ford</li>
+                      <li></li>
+					 
+			   
+   </ul>
+   </div>
+    <a href="https://en.wikipedia.org/wiki/Tesla,_Inc." target = "_blank">Tesla Wikipedia<a>
+	<a href="https://www.tesla.com/en_CA" target = "_blank">Tesla Website<a>
+	
+	
+	
+	
+	<img src="http://www.car-brand-names.com/wp-content/uploads/2015/05/Tesla-Motors-logo.png"/>
+	
+	<img id="img" src="https://media.wired.com/photos/592652fb8d4ebc5ab8069db7/master/w_2400,c_limit/Future-of-Transportation-Stack_V3-TA.jpg"/>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/AiOxUcDgsa8" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/tiwVMrTLUWg" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/2nSpQxpBcbY" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/EYh0F_8ZdSU" frameborder="0" allowfullscreen></iframe>
+	<h2>Flying Cars</h2>
+	<p>Here is a list of companies making flying cars</p>
+	<ul>
+	  <li>Zee</li>
+	   <li>Joby</li>
+	   <li>Kitty Hawk</li>
+	     <li>Zunum Aero </li>
+		  <li>Wright Electric</li>
+		   <li>lilium Aviation</li>
+		   </ul>
+		   
+	   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <a href="http://www.jobyaviation.com/" target = "_blank">Joby Aviation<a>
+   
+   <div align="center"><embed src="http://www.classicgamesarcade.com/games/pacman.swf" width="415px" height="500px" autostart="true" loop="false" controller="true"></embed><br /><a href="http://www.classicgamesarcade.com/game/21593/pac-man-classic-arcade-flash-game.html">Pac Man Classic Arcade Flash Game</a></div>
+ 
+	<img src="http://www.jobyaviation.com/images/Joby_S2_6.jpg"/>
+    <img src="http://www.jobyaviation.com/images/Joby_S2_1.jpg" />
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/RwtySwWHu8Q" frameborder="0" allowfullscreen></iframe>
+   <h3>Hyperloop</h3>
+   <p>Here is a list of companies working on the hyperloop</p>
+   <ul>
+   <li>Hyperloop one </li>
+    <li>Transpod</li>
+	 <li>Hyperloop Transportation Technologies</li>
+	   <li>Spacex</li>
+	
+   <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Hyperloop_One_Logo.png"/>
+   <img src="http://news.nationalgeographic.com/content/dam/news/2015/05/21/hyperloop/3_hyperloop_hyperloop_concept_nature_02_transparent_copyright_2014_omegabyte3d_c.jpg"/>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/LAWEOwDDt_Y" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/O_FyOBCVGWE" frameborder="0" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/zIwLWfaAg-8" frameborder="0" allowfullscreen></iframe>
+   
+   </Body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
