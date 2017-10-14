@@ -1,2 +1,2 @@
 # hellogit
-please add your html and css
+Please add your HTML and CSS.
